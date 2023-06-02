@@ -13,7 +13,7 @@ The prosed training procedured was utilized using  The necessary equipment for t
 - Vive Trackers
 
 <p align="center">
-  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/a767d58d-87c6-4e99-acb9-c097fbe09ddc" width="200" title="hover text">
+  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/a767d58d-87c6-4e99-acb9-c097fbe09ddc" width="250" title="hover text">
 </p>
 
 
