@@ -13,8 +13,9 @@ The prosed training procedured was utilized using  The necessary equipment for t
 - Vive Trackers
 
 <p align="center">
-  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/a767d58d-87c6-4e99-acb9-c097fbe09ddc" width="250" title="hover text">
+  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/4dae877c-e451-4d48-859c-1c9e2bdebbe9" width="250" title="hardware">
 </p>
+
 
 
 A Virtual Environment of a cricket insect farm was created to replicate real case scenarios and train farm workers, as shown on the image below.
