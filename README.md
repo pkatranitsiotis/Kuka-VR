@@ -16,12 +16,10 @@ The prosed training procedured was utilized using  The necessary equipment for t
   <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/4dae877c-e451-4d48-859c-1c9e2bdebbe9" width="250" title="hardware">
 </p>
 
-
-
 A Virtual Environment of a cricket insect farm was created to replicate real case scenarios and train farm workers, as shown on the image below.
 
 <p align="center">
-  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/7135b1d9-429a-4b77-80ee-35c3649ba5ab" width="550" title="hover text">
+  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/a94709ee-1857-4436-b878-ce58d3acb4e4" width="550" title="hover text">
 </p>
 
 
@@ -30,7 +28,7 @@ A Virtual Environment of a cricket insect farm was created to replicate real cas
 Utilizing the SenseGloves technology, users are capable of manipulating the Kuka Robot within a virtual reality (VR) environment, replicating real-life interactions, by applying force and haptic feedback on user's hands and receiving comprehensive training regarding robot's inverse kinematics and joint limitations as shown on the image below.
 
 <p align="center">
-  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/b86ec2e8-5818-4832-be22-9c0480cf6b1d" width="550" title="hover text">
+  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/b79040b7-4bc3-43e9-a854-62d75bc055eb" width="550" title="hover text">
 </p>
 
 ## Training Mechanism
@@ -40,8 +38,9 @@ The user is able to feel and touch all the objects objects in VR and apply the c
 A represantation of a pick and place procedure is shown on the following video.
 
 <p align="center">
-  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/494955b2-7bc2-4869-bfd4-109947ab8466" width="650" title="hover text">
+  <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/45223de3-f0ae-4e29-bfdf-5c366e315ed6" width="650" title="hover text">
 </p>
+
 
 
 
