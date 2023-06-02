@@ -14,11 +14,18 @@ A Virtual Environment of a cricket insect farm was created to replicate real cas
 
 ![Picture2](https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/7135b1d9-429a-4b77-80ee-35c3649ba5ab)
 
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/7135b1d9-429a-4b77-80ee-35c3649ba5ab)" width="350" title="hover text">
+</p>
+
 Utilizing the SenseGloves technology, users are capable of manipulating the Kuka Robot within a virtual reality (VR) environment, replicating real-life interactions, by applying force adn haptic feedback on user's hands and receiving comprehensive training regarding robot's inverse kinematics and joint limitations as shown on the image below.
 
 ![Picture1](https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/b86ec2e8-5818-4832-be22-9c0480cf6b1d)
 
-Therefore the user can be able to feel and touch all the objects objects in VR and apply the corresponding tasks to achieve his effective training. Tasks such as pick and place important objects on the insect crate (like watering tank and feeding tray) as well as manually manipulating the Kuka Robot to scan the crate (Lower down the end effector and scan the crate).
+Therefore the user can be able to feel and touch all the objects objects in VR and apply the corresponding tasks to achieve his effective training. Tasks such as pick and place important objects on the insect crate (like watering tank and feeding tray) as well as manually manipulating the Kuka Robot to scan the crate (Lower down the end effector and scan the crate). Furthermore, a table with two VR buttons has been installed within the interaction VR area. The main objective of these buttons is to record the robot’s movement and display it on the corresponding VR screen. Therefore, the users and their trainees can evaluate the task and identify the optimal robot manipulation movement for this specific task.
 
 A represantion of such a procedure is shown on the following video.
+
+![ezgif com-video-to-gif (2)](https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/494955b2-7bc2-4869-bfd4-109947ab8466)
+
 
