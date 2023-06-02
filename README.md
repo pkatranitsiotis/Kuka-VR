@@ -23,6 +23,7 @@ A Virtual Environment of a cricket insect farm was created to replicate real cas
   <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/7135b1d9-429a-4b77-80ee-35c3649ba5ab" width="550" title="hover text">
 </p>
 
+
 ## Sense Glove
 
 Utilizing the SenseGloves technology, users are capable of manipulating the Kuka Robot within a virtual reality (VR) environment, replicating real-life interactions, by applying force and haptic feedback on user's hands and receiving comprehensive training regarding robot's inverse kinematics and joint limitations as shown on the image below.
