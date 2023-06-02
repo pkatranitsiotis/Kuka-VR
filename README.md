@@ -35,7 +35,7 @@ Utilizing the SenseGloves technology, users are capable of manipulating the Kuka
 
 The user is able to feel and touch all the objects objects in VR and apply the corresponding tasks to achieve his effective training. Tasks such as pick and place important objects on the insect crate (like watering tank and feeding tray) as well as manually manipulating the Kuka Robot to scan the crate (Lower down the end effector and scan the crate). Furthermore, a table with two VR buttons has been installed within the interaction VR area. The main objective of these buttons is to record the robot’s movement and display it on the corresponding VR screen. Therefore, the users and their trainees can evaluate the task and identify the optimal robot manipulation movement for this specific task.
 
-A represantion of such a procedure is shown on the following video.
+A represantation of a pick and place procedure is shown on the following video.
 
 <p align="center">
   <img src="https://github.com/pkatranitsiotis/Kuka-VR/assets/101392986/494955b2-7bc2-4869-bfd4-109947ab8466" width="650" title="hover text">
